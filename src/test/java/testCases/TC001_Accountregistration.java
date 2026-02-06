@@ -41,7 +41,7 @@ public class TC001_Accountregistration {
 		AccountRegistrationPage arp=new AccountRegistrationPage(driver);
 		Thread.sleep(10);
 		//arp.userName("Mohan@778");
-		arp.firstName("mohan7786888888");
+		arp.firstName("mohan77869444444444");
 		arp.lastName("Test");
 		arp.email("mohan@Test.com");
 		arp.country("India");
